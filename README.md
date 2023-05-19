@@ -97,7 +97,7 @@ ___
 
 # Bug Fixing
 
-One bug that occured early on in the project creation was updating the site styling through the stylesheet.
+One bug that occured early on in the project creation was when the project would not update when run through "python3 -m http.server". As the source of this error could not be identified, the project was rebooted in a new Github repository. This is not the correct way to solve this error but provided new learnings to keep track of what is entered into the terminal. For example, killing a running website with CTRL+Z instead of CTRL+C does not adequately shut down the project. 
 
 ## Resolved
 

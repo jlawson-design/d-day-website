@@ -1,13 +1,34 @@
-@import url('');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Roboto:wght@300&display=swap');
 
 /* Initialise webpage with zero values */
 *{
     margin: 0;
     padding: 0;
-    border: 0;
+    border: none;
 }
 
 /* Style for overall webpage */
-body{
-    font-family: Arial;
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+}
+
+/* Headings and Logo */
+
+h1, h2 {
+    font-family: Roboto Slab, sans-serif;
+    font-weight: 500;
+    color: #3a3a3a
+    letter-spacing: 4px;
+}
+/* Logo styling and location*/
+#logo {
+    float: left;
+    font-size: 300%;
+}
+/* Move list menu to the right and remove bullet points */
+#menu {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
 }
