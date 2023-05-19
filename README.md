@@ -1,39 +1,120 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+___
 
-Welcome,
+# Table of Contents
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+- [Table of Contents](#table-of-contents)
+- [Background](#background)
+- [UX](#ux)
+  - [User](#user)
+  - [Design](#design)
+  - [Structure](#structure)
+- [Features](#features)
+  - [Navigation Bar](#navigation-bar)
+  - [Landing Content](#landing-content)
+  - [Homepage](#homepage)
+  - [About](#about)
+  - [Contact](#contact)
+  - [Video Content](#video-content)
+  - [Historical Imagery](#historical-imagery)
+  - [Beach Pages](#beach-pages)
+  - [Footer](#footer)
+  - [Future Features](#future-features)
+- [Testing](#testing)
+- [Bug Fixing](#bug-fixing)
+  - [Resolved](#resolved)
+  - [Unresolved](#unresolved)
+- [Resources](#resources)
+  - [Image Content](#image-content)
+  - [Education](#education)
+  - [Technologies Used](#technologies-used)
+- [Acknowledgements](#acknowledgements)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+___
 
-## Codeanywhere Reminders
+# Background
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+D-Day is an informational/educational website intended to provide accurate historical information of the WW2 Allied amphibious landings known as Operation OVERLORD. The intention is to provide an impartial, elegant, and user friendly recounting of what occured on the beaches of Normandy in June of 1944.
 
-`python3 -m http.server`
+Inspired by the first project idea from Code Institute's brief, D-Day focuses on providing a useful historical hub with usable evidence-based information. The content is strongly linked to existing literature, making it a one-stop-shop for information on this well-known historical event. This comes as we pass the 79th anniversary of the operation's commencement on June 6th 1944.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Like other historical websites such as Britannica or History.com, this site provides a unique user experience, leveraging off the universal principles of design to give an accessible and aesthetically pleasing experience. The target audience for this website is anyone with a cursory knowledge of WW2 history who wishes to learn more. Academics and experts are also welcome, as this site boasts acknowledgements to some of the most famous pieces of secondary sources on the event in question.
+___
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+# UX
 
-`http_server`
+The design of the website should be elegant, minimalist, and ultimately **respectful** to the historical event. An initial design of the website was created through the creation of a wireframe on Figma.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## User
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+The user for this site is either someone who has an interest in the subject matter or someone with a deep knowledge of WW2 history. It is unlikely that the user will be some form of organisation and more likely to be an individual. This site caters to both experts and those more unfamiliar to the topic, delivering an accessible experience.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Design
 
-To log into the Heroku toolbelt CLI:
+## Structure
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+___
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+# Features
 
----
+## Navigation Bar
 
-Happy coding!
+The site features a navigation bar that responds to the user when each item is hovered over with the mouse.
+
+## Landing Content
+
+## Homepage
+
+The homepage features the headline article for the website, a comprehensive summary of the D-Day landings, drawing the user in through imagery and descriptive writing.
+
+## About
+
+This section describes the purpose of the website.
+
+## Contact
+
+This section allows users to get in touch by entering their details through a form.
+
+## Video Content
+
+## Historical Imagery
+
+## Beach Pages
+
+The site contains five subpages, each for one of the beach locations in Normandy. These pages are selectable from the header bar and from buttons accessible at the bottom of the homepage.
+
+## Footer
+
+The footer links to social media and content delivery websites for the page, specifically Instagram and Github.
+
+## Future Features
+
+There are a few features that were left on the cutting room floor that may be added in future versions.
+___
+
+# Testing
+
+___
+
+# Bug Fixing
+
+One bug that occured early on in the project creation was updating the site styling through the stylesheet.
+
+## Resolved
+
+## Unresolved
+
+___
+
+# Resources
+
+## Image Content
+
+## Education
+
+## Technologies Used
+
+___
+
+# Acknowledgements
+
+I would like to thank the Code Institute team and the Slack community. I would also like to extend my thanks to my mentor, Okwudiri Okoro, for his guidance and management of the project. He helped me to add/cut content to ensure the project met the high standards required and was delivered on-time.
