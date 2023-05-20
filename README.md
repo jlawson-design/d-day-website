@@ -37,12 +37,16 @@ D-Day is an informational/educational website intended to provide accurate histo
 
 Inspired by the first project idea from Code Institute's brief, D-Day focuses on providing a useful historical hub with usable evidence-based information. The content is strongly linked to existing literature, making it a one-stop-shop for information on this well-known historical event. This comes as we pass the 79th anniversary of the operation's commencement on June 6th 1944.
 
-Like other historical websites such as Britannica or History.com, this site provides a unique user experience, leveraging off the universal principles of design to give an accessible and aesthetically pleasing experience. The target audience for this website is anyone with a cursory knowledge of WW2 history who wishes to learn more. Academics and experts are also welcome, as this site boasts acknowledgements to some of the most famous pieces of secondary sources on the event in question.
+Like other historical websites such as [Britannica.com](https://www.britannica.com/event/Normandy-Invasion/D-Day-June-6-1944) or [History.com](https://www.history.com/topics/world-war-ii/d-day), this site provides a unique user experience, leveraging off the universal principles of design to give an accessible and aesthetically pleasing experience. The target audience for this website is anyone with a cursory knowledge of WW2 history who wishes to learn more. Academics and experts are also welcome, as this site boasts acknowledgements to some of the most famous pieces of secondary sources on the event in question.
 ___
 
 # UX
 
-The design of the website should be elegant, minimalist, and ultimately **respectful** to the historical event. An initial design of the website was created through the creation of a wireframe on Figma.
+The design of the website should be elegant, minimalist, and ultimately **respectful** to the historical event. 
+
+- An initial design of the website was formed through the creation of a wireframe on [Figma](https://www.figma.com/). This wireframe guided design decisions and negated the temptation of scope creep.
+- A minimalist design style was chosen for the website, evoking a sense of history, back when the majority of pictures taken lacked colour. However, the colour palette adheres to the design philosophy of providing a pleasing user experience, and colour is still used albeit sparingly.
+- Roboto was chosen as the site font. It's simplicity matches the minimalist style of the site and Roboto Slab is used for select headings as it matches well. 
 
 ## User
 
@@ -77,6 +81,7 @@ This section allows users to get in touch by entering their details through a fo
 ## Video Content
 
 ## Historical Imagery
+Imagery was taken from [Shutterstock.com](https://www.shutterstock.com/). This was to ensure that there was no copyright infringement and to gather images of high-quality. 
 
 ## Beach Pages
 
