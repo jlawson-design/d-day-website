@@ -42,19 +42,19 @@ ___
 
 # UX
 
+## User
+
+The user for this site is either someone who has an interest in the subject matter or someone with a deep knowledge of WW2 history. It is unlikely that the user will be some form of organisation and more likely to be an individual. This site caters to both experts and those more unfamiliar to the topic, delivering an accessible experience.
+
+## Design
 The design of the website should be elegant, minimalist, and ultimately **respectful** to the historical event. 
 
 - An initial design of the website was formed through the creation of a wireframe on [Figma](https://www.figma.com/). This wireframe guided design decisions and negated the temptation of scope creep.
 - A minimalist design style was chosen for the website, evoking a sense of history, back when the majority of pictures taken lacked colour. However, the colour palette adheres to the design philosophy of providing a pleasing user experience, and colour is still used albeit sparingly.
 - Roboto was chosen as the site font. It's simplicity matches the minimalist style of the site and Roboto Slab is used for select headings as it matches well. 
 
-## User
-
-The user for this site is either someone who has an interest in the subject matter or someone with a deep knowledge of WW2 history. It is unlikely that the user will be some form of organisation and more likely to be an individual. This site caters to both experts and those more unfamiliar to the topic, delivering an accessible experience.
-
-## Design
-
 ## Structure
+The site is subdivided into 3 distinct pages each with a unique set of content. 
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 ## Navigation Bar
 
-The site features a navigation bar that responds to the user when each item is hovered over with the mouse.
+The site features a navigation bar that responds to the user when each item is hovered over with the mouse. The responsive links change colour when the user hovers their mouse over them. 
 
 ## Landing Content
 
@@ -81,7 +81,6 @@ This section allows users to get in touch by entering their details through a fo
 ## Video Content
 
 ## Historical Imagery
-Imagery was taken from [Shutterstock.com](https://www.shutterstock.com/). This was to ensure that there was no copyright infringement and to gather images of high-quality. 
 
 ## Beach Pages
 
@@ -111,13 +110,23 @@ One bug that occured early on in the project creation was when the project would
 ___
 
 # Resources
+Below are a list of sources used in both the creation of the site content and learnings. 
 
 ## Image Content
+Imagery was taken from [Shutterstock.com](https://www.shutterstock.com/). This was to ensure that there was no copyright infringement and to gather images of high-quality.
 
 ## Education
+- The Code Institute videos were constantly referred to in the creation of this project, specifically those focused on the Love Running template website.
+- [W3Schools](https://www.w3schools.com/) was used for understanding and adding new styling content. 
 
 ## Technologies Used
-
+- Wireframes were created in [Figma](https://www.figma.com/).
+- Code was written exclusively in HyperText Markup Language (HTML) and Cascading Style Sheets (CSS).
+- To fix errors and troubleshoot, [Stack Overflow](https://stackoverflow.com/) was constantly referred to. 
+- [Coolers.co](https://coolors.co/) was used to create the colour palette for the site. 
+- CodeAnywhere was used as the recommended Integrated Development Environment (IDE).
+- [Font Awesome](https://fontawesome.com/) provided clipart imagery for social media links.
+- [Google Fonts](https://fonts.google.com/) was imported in the style sheet to use the selected font types. 
 ___
 
 # Acknowledgements
