@@ -53,7 +53,13 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
-
+/* Hero Image styling*/
+#hero-image{
+    height:600px;
+    width: 100%;
+    background: url('../img/d-day-boat2.jpg') no-repeat center center;
+}
+/* Style for social media links */
 #social-networks li{
     float: right;
     list-style-type: none;
