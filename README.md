@@ -1,5 +1,6 @@
 ___
-
+The website is available at [this link]().
+__
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -20,6 +21,7 @@ ___
   - [Footer](#footer)
   - [Future Features](#future-features)
 - [Testing](#testing)
+  - [Process](#process)
 - [Bug Fixing](#bug-fixing)
   - [Resolved](#resolved)
   - [Unresolved](#unresolved)
@@ -59,12 +61,14 @@ The site is subdivided into 3 distinct pages each with a unique set of content.
 ___
 
 # Features
+UX attracts the user to the site, but features ensure the stay. The features are intended to compliment the site's overall aesthetic and solidify its purpose as a historical educator.
 
 ## Navigation Bar
 
 The site features a navigation bar that responds to the user when each item is hovered over with the mouse. The responsive links change colour when the user hovers their mouse over them. 
 
 ## Landing Content
+The article on the homepage provides a well-researched introductory article, giving interesting facts about the event and referencing existing literature where necessary. 
 
 ## Homepage
 
@@ -72,15 +76,17 @@ The homepage features the headline article for the website, a comprehensive summ
 
 ## About
 
-This section describes the purpose of the website.
+This section describes the purpose of the website. It gives context to the purpose of the article and the reasons for the website's creation. 
 
 ## Contact
 
-This section allows users to get in touch by entering their details through a form.
+This section allows users to get in touch by entering their details through a form. The form asks for the user's name, email, and a brief descriptions about their enquiry. 
 
 ## Video Content
+Reference to external video content is provided in the site. The content is intended to flesh out the details of the primary article and boost the user experience. 
 
 ## Historical Imagery
+Throughout the site, imagery from the historical date is used to immerse the user in the content on screen. 
 
 ## Beach Pages
 
@@ -97,13 +103,14 @@ ___
 
 # Testing
 
+## Process
+
 ___
 
 # Bug Fixing
 
-One bug that occured early on in the project creation was when the project would not update when run through "python3 -m http.server". As the source of this error could not be identified, the project was rebooted in a new Github repository. This is not the correct way to solve this error but provided new learnings to keep track of what is entered into the terminal. For example, killing a running website with CTRL+Z instead of CTRL+C does not adequately shut down the project. 
-
 ## Resolved
+One bug that occured early on in the project creation was when the project would not update when run through "python3 -m http.server". As the source of this error could not be identified, the project was rebooted in a new Github repository. This is not the correct way to solve this error but provided new learnings to keep track of what is entered into the terminal. For example, accidentally terminating a running website with CTRL+Z instead of CTRL+C does not adequately shut down the project and requires additional commands to stop the code from running. 
 
 ## Unresolved
 
@@ -118,6 +125,7 @@ Imagery was taken from [Shutterstock.com](https://www.shutterstock.com/). This w
 ## Education
 - The Code Institute videos were constantly referred to in the creation of this project, specifically those focused on the Love Running template website.
 - [W3Schools](https://www.w3schools.com/) was used for understanding and adding new styling content. 
+- Creation of the website was assissted by [Easy Tutorials](https://www.youtube.com/watch?v=oYRda7UtuhA&list=PLjwm_8O3suyP5kGKmwS_DM0Hs1j7fshi5) on YouTube.
 
 ## Technologies Used
 - Wireframes were created in [Figma](https://www.figma.com/).
