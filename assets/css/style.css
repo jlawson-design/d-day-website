@@ -91,12 +91,17 @@ article {
     padding-bottom: 10vh;
 }
 
+article sup{
+    color: #857D66
+}
+
 #references {
     display: flex;
     align-items: space-between;
     flex-direction: column;
     padding-left: 10%;
     padding-right: 10%;
+    padding-bottom: 2vh;
     font-size: 80%;
 }
 
@@ -110,6 +115,7 @@ footer{
     justify-content: center;
     align-items: space-between;
     border-top: solid #C1AE8C;
+    width: 110%;
 }
 
 footer ul{
@@ -117,9 +123,33 @@ footer ul{
     list-style: none;
     justify-content: center;
     align-items: flex-end;
-    padding: 1%;
 }
 
 footer ul li{
     padding: 30%;
+}
+
+/* Media Queries for different page sizes */
+@media (max-width: 1200px){
+
+}
+
+@media (max-width: 1024x) {
+
+}
+
+@media (max-width: 955x) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 625x) {
+
+}
+
+@media (max-width: 390x) {
+
 }
