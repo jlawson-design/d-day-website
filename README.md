@@ -20,6 +20,7 @@ __
   - [Beach Pages](#beach-pages)
   - [Footer](#footer)
   - [Future Features](#future-features)
+    - [Dynamic Scroll Bar](#dynamic-scroll-bar)
 - [Testing](#testing)
   - [Process](#process)
 - [Bug Fixing](#bug-fixing)
@@ -100,9 +101,15 @@ The footer links to social media and content delivery websites for the page, spe
 ## Future Features
 
 There are a few features that were left on the cutting room floor that may be added in future versions.
+
+### Dynamic Scroll Bar
+
+The addition of a dynamic scroll bar to indicate the user's progression along the webpage was considered as a feature. However, as this required a Javascript solution, it was not included in the final build. 
 ___
 
 # Testing
+
+Different elements of the site were coloured throughout the process to discern where changes were being made. As the majority of the site has a white background this required constant testing processes. 
 
 ## Process
 
