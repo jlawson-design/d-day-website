@@ -16,7 +16,7 @@ html {
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
-    color: #202a25
+    color: #202a25;
 }
 /* Headings and logo */
 h1, h2 {
@@ -48,7 +48,7 @@ a {
     display: flex;
     justify-content: flex-start;
     text-transform: uppercase;
-    font-size: 300%;
+    font-size: 200%;
     text-decoration: none;
     padding-left: 10vw;
     opacity: 0.7;
@@ -64,12 +64,18 @@ a {
     list-style: none;
     justify-content: flex-end;
     font-size: 150%;
-    padding-left: 1%;
+    font-weight: 300;
 }
 /* Change colour of nav elements when hovered over*/
 #menu li{
     padding-left: 5vw;
     flex-direction: row-reverse;
+    opacity: 0.7;
+}
+
+#menu li:hover{
+    opacity: 1;
+    transition: 0.6s;
 }
 
 #hero-logo{
@@ -86,8 +92,8 @@ a {
 }
 
 article {
-    padding-left:10%;
-    padding-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
     padding-bottom: 10vh;
 }
 
@@ -95,12 +101,17 @@ article sup{
     color: #857D66
 }
 
+aside{
+    display: flex;
+    justify-content: right;
+    padding-right: 5%;
+}
+
 #references {
     display: flex;
-    align-items: space-between;
     flex-direction: column;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
     padding-bottom: 2vh;
     font-size: 80%;
 }

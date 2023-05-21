@@ -129,7 +129,8 @@ ___
 Below are a list of sources used in both the creation of the site content and learnings. 
 
 ## Image Content
-Imagery was taken from [Shutterstock.com](https://www.shutterstock.com/). This was to ensure that there was no copyright infringement and to gather images of high-quality.
+- Imagery was taken from [Shutterstock.com](https://www.shutterstock.com/). This was to ensure that there was no copyright infringement and to gather images of high-quality.
+- The Favicon was created using the [Favicon.io Generator] (https://favicon.io/favicon-generator/)
 
 ## Education
 - The Code Institute videos were constantly referred to in the creation of this project, specifically those focused on the Love Running template website.
