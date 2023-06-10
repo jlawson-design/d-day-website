@@ -19,8 +19,14 @@ body {
     color: #202a25;
 }
 /* Headings and logo */
-h1, h2 {
+h1 {
     font-family: Roboto Slab, sans-serif; /*Back-up font in case existing font fails */
+    font-weight: 800;
+    font-size: 200%;
+}
+
+h2 {
+    font-family: Roboto Slab, sans-serif; 
     font-weight: 500;
 }
 
@@ -32,6 +38,7 @@ h3 {
 nav {
     display: flex;
     align-items: center;
+    justify-content: flex-start;
     width: 110%;
     list-style: none;
     background: #fff;
@@ -63,17 +70,16 @@ a {
 #menu {
     display: flex;
     list-style: none;
-    justify-content: flex-end;
     font-size: 150%;
     font-weight: 300;
 }
-/* Change colour of nav elements when hovered over*/
+
 #menu li{
     padding-left: 5vw;
     flex-direction: row-reverse;
     opacity: 0.7;
 }
-
+/* Change colour of nav elements when hovered over*/
 #menu li:hover{
     opacity: 1;
     transition: 0.6s;
@@ -131,20 +137,15 @@ aside{
 }
 
 .form-section{
-    padding-right: 25%;
-    padding-left: 25%;
-    padding-bottom: 2.5%;
-    border-radius: 25px;
+    padding-right: 50%;
 }
 
 form {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 0.5wv;
     background-color: #C1AE8C;
     color: #fff;
-    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, .3);
 }
 
 form label{
@@ -159,11 +160,17 @@ form input {
 }
 
 .join-button{
-    font-size: 110%;
+    font-size: 100%;
     margin: 1%;
     cursor: pointer;
     background-color: #67DFBA;
     color: #fff;
+    opacity: 0.8;
+}
+
+.join-button:hover{
+    opacity: 1;
+    transition: 0.6;
 }
 
 #rounded-corners {
@@ -198,6 +205,18 @@ footer ul li{
 #click-icon:hover{
     top: -5px;
 }
+
+#video-content{
+    display: flex;
+    justify-content: flex-start;
+    align-items: space-between;
+}
+
+#video-container{
+    justify-content: space-evenly;
+    padding: 10%;
+}
+
 
 /* Media Queries for different page sizes */
 @media (max-width: 1200px){
