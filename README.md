@@ -121,6 +121,7 @@ ___
 ## Resolved
 - One bug that occured early on in the project creation was when the project would not update when run through "python3 -m http.server". As the source of this error could not be identified, the project was rebooted in a new Github repository. This is not the correct way to solve this error but provided new learnings to keep track of what is entered into the terminal. For example, accidentally terminating a running website with CTRL+Z instead of CTRL+C does not adequately shut down the project and requires additional commands to stop the code from running. 
 - W3C Validator identified the second major error found in the <meta> element of index.html.
+- A bug occured when creating movement when hovering over the social media links. The hover effect occured when the surrounding list item area was hovered over. This was fixed through adding an id "click-icon" to the icons and moving the css properties to that id.
 
 ## Unresolved
 
@@ -150,4 +151,4 @@ ___
 
 # Acknowledgements
 
-I would like to thank the Code Institute team and the Slack community. I would also like to extend my thanks to my mentor, Okwudiri Okoro, for his guidance and management of the project. He helped me to add/cut content to ensure the project met the high standards required and was delivered on-time.
+I would like to thank the Code Institute team and the Slack community. I would also like to extend my thanks to my mentor...

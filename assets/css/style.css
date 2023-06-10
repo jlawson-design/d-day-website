@@ -95,13 +95,19 @@ a {
 }
 
 article {
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-bottom: 10vh;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-bottom: 5%;
 }
 
 article sup{
     color: #857D66
+}
+
+article p {
+    margin-top: 1%;
+
+
 }
 
 aside{
@@ -182,11 +188,14 @@ footer ul{
 
 footer ul li{
     padding: 30%;
-    position: relative;
-
 }
 
-footer ul li:hover{
+#click-icon{
+    position: relative;
+    transition: top ease 1s;
+}
+
+#click-icon:hover{
     top: -5px;
 }
 
@@ -212,6 +221,5 @@ footer ul li:hover{
 }
 
 @media (max-width: 390x) {
-
 
 }
