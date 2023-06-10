@@ -40,7 +40,7 @@ D-Day is an informational/educational website intended to provide accurate histo
 
 Inspired by the first project idea from Code Institute's brief, D-Day focuses on providing a useful historical hub with usable evidence-based information. The content is strongly linked to existing literature, making it a one-stop-shop for information on this well-known historical event. This comes as we pass the 79th anniversary of the operation's commencement on June 6th 1944.
 
-Like other historical websites such as [Britannica.com](https://www.britannica.com/event/Normandy-Invasion/D-Day-June-6-1944) or [History.com](https://www.history.com/topics/world-war-ii/d-day), this site provides a unique user experience, leveraging off the universal principles of design to give an accessible and aesthetically pleasing experience. The target audience for this website is anyone with a cursory knowledge of WW2 history who wishes to learn more. Academics and experts are also welcome, as this site boasts acknowledgements to some of the most famous pieces of secondary sources on the event in question.
+Like other historical websites such as [Britannica.com](https://www.britannica.com/event/Normandy-Invasion/D-Day-June-6-1944) or [History.com](https://www.history.com/topics/world-war-ii/d-day), this site provides a unique user experience, leveraging off the universal principles of design to give an accessible and aesthetically pleasing experience. The target audience for this website is anyone with a cursory knowledge of WW2 history who wishes to learn more. Academics and experts are also welcome, as this site boasts acknowledgements and references to some of the most famous pieces of secondary sources on the event in question.
 ___
 
 # UX

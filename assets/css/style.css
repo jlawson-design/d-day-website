@@ -112,8 +112,6 @@ article sup{
 
 article p {
     margin-top: 1%;
-
-
 }
 
 aside{
@@ -124,8 +122,7 @@ aside{
 
 #references-section{
     display: flex;
-    padding-left: 20%;
-    padding-right: 5%;
+    margin-left: 5%;
     padding-bottom: 2vh;
     font-size: 80%;
     flex-direction: column;
@@ -137,7 +134,7 @@ aside{
 }
 
 .form-section{
-    padding-right: 50%;
+    background-size: contain;
 }
 
 form {
@@ -155,11 +152,14 @@ form label{
 
 form input {
     display: flex;
+    justify-content: center;
+    width: 200px;
     padding: 0.5%;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .3);
 }
 
 .join-button{
+    align-items: center;
     font-size: 100%;
     margin: 1%;
     cursor: pointer;
@@ -207,9 +207,7 @@ footer ul li{
 }
 
 #video-content{
-    display: flex;
-    justify-content: flex-start;
-    align-items: space-between;
+
 }
 
 #video-container{
@@ -217,6 +215,10 @@ footer ul li{
     padding: 10%;
 }
 
+#video{
+    width: 64%;
+    height: 36%;
+}
 
 /* Media Queries for different page sizes */
 @media (max-width: 1200px){
