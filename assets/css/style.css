@@ -20,26 +20,38 @@ body {
 }
 /* Headings and logo */
 h1 {
+    display: flex;
     font-family: Roboto Slab, sans-serif; /*Back-up font in case existing font fails */
     font-weight: 800;
     font-size: 200%;
+    justify-content: center;
 }
 
 h2 {
     font-family: Roboto Slab, sans-serif; 
     font-weight: 500;
+    color:#857D66
 }
 
 h3 {
     font-weight: 100;
 }
 
+h4 {
+    display: flex;
+    font-weight: 100;
+    font-size: 150%;
+    font-style:italic;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    justify-content: center;
+    color: #202a25;
+}
+
 /* Edits to navigation page*/
 nav {
     display: flex;
     align-items: center;
-    justify-content: flex-start;
-    width: 110%;
+    width: 100%;
     list-style: none;
     background: #fff;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .3);
@@ -56,6 +68,7 @@ a {
     display: flex;
     justify-content: flex-start;
     text-transform: uppercase;
+    color:#202a25
     font-size: 200%;
     text-decoration: none;
     padding-left: 10vw;
@@ -103,7 +116,7 @@ a {
 article {
     margin-left: 5%;
     margin-right: 5%;
-    padding-bottom: 5%;
+    margin-bottom: 1%;
 }
 
 article sup{
@@ -119,6 +132,17 @@ aside{
     justify-content: right;
     padding-right: 5%;
 }
+
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.col{
+    align-items: center;
+}
+
 
 #references-section{
     display: flex;
@@ -170,7 +194,6 @@ form input {
 
 .join-button:hover{
     opacity: 1;
-    transition: 0.6;
 }
 
 #rounded-corners {
@@ -180,9 +203,8 @@ form input {
 footer{
     display: flex;
     justify-content: center;
-    align-items: space-between;
     border-top: solid #C1AE8C;
-    width: 110%;
+    width: 100%;
 }
 
 footer ul{
@@ -194,7 +216,9 @@ footer ul{
 }
 
 footer ul li{
+    display: flex;
     padding: 30%;
+    justify-content: center;
 }
 
 #click-icon{
@@ -234,7 +258,9 @@ footer ul li{
 }
 
 @media (max-width: 768px) {
-
+    h1 h2 h3 h4 {
+    font-size: 50%;
+    }
 }
 
 @media (max-width: 625x) {
@@ -242,5 +268,7 @@ footer ul li{
 }
 
 @media (max-width: 390x) {
-
+    .row{
+        flex-direction: column;
+    }
 }
