@@ -17,10 +17,10 @@ __
   - [Contact](#contact)
   - [Video Content](#video-content)
   - [Historical Imagery](#historical-imagery)
-  - [Beach Pages](#beach-pages)
   - [Footer](#footer)
   - [Future Features](#future-features)
     - [Dynamic Scroll Bar](#dynamic-scroll-bar)
+    - [Form Submit Page](#form-submit-page)
 - [Testing](#testing)
   - [Process](#process)
 - [Bug Fixing](#bug-fixing)
@@ -87,18 +87,14 @@ This section describes the purpose of the website. It gives context to the purpo
 This section allows users to get in touch by entering their details through a form. The form asks for the user's name, email, and a brief descriptions about their enquiry. 
 
 ## Video Content
-Reference to external video content is provided in the site. The content is intended to flesh out the details of the primary article and boost the user experience. 
+Reference to external video content is provided in the site. The content is intended to flesh out the details of the primary article and boost the user experience. An aspect ratio calculator [Omni Calculator] (https://www.omnicalculator.com/other/16-9-aspect-ratio#:~:text=Check%20the%20width%20and%20height%20of%20your%20image.,16%2F9%2C%20aspect%20ratio%20of%20your%20image%20is%2016%3A9.) was used to calculate the relevant height to specific widths for the iframe videos. 
 
 ## Historical Imagery
 Throughout the site, imagery from the historical date is used to immerse the user in the content on screen. 
 
-## Beach Pages
-
-The site contains five subpages, each for one of the beach locations in Normandy. These pages are selectable from the header bar and from buttons accessible at the bottom of the homepage.
-
 ## Footer
 
-The footer links to social media and content delivery websites for the page, specifically Instagram and Github.
+The footer links to social media and content delivery websites for the page, specifically Instagram and Github. The 
 
 ## Future Features
 
@@ -107,6 +103,10 @@ There are a few features that were left on the cutting room floor that may be ad
 ### Dynamic Scroll Bar
 
 The addition of a dynamic scroll bar to indicate the user's progression along the webpage was considered as a feature. However, as this required a Javascript solution, it was not included in the final build. 
+
+### Form Submit Page
+
+Currently the form links to the Code Institute submission page once submitted. Extra content could include a built-in submission page to keep the site consistent. 
 ___
 
 # Testing

@@ -295,8 +295,9 @@ iframe{
         font-size: 100%;
     }
 
-    col iframe {
-        width: 200px;
+    .col iframe {
+        width: 500px;
+        height:281px;
     }
 }
 
@@ -305,5 +306,10 @@ iframe{
 }
 
 @media (max-width: 390x) {
+
+    .col iframe {
+        width: 400px;
+        height: 281px;
+    }
 
 }
