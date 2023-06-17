@@ -12,8 +12,6 @@ __
 - [Features](#features)
   - [Navigation Bar](#navigation-bar)
   - [Landing Content](#landing-content)
-  - [Homepage](#homepage)
-  - [About](#about)
   - [Contact](#contact)
   - [Video Content](#video-content)
   - [Historical Imagery](#historical-imagery)
@@ -55,46 +53,46 @@ The design of the website should be elegant, minimalist, and ultimately **respec
 
 - An initial design of the website was formed through the creation of a wireframe on [Figma](https://www.figma.com/). This wireframe guided design decisions and negated the temptation of scope creep.
 - A minimalist design style was chosen for the website, evoking a sense of history, back when the majority of pictures taken lacked colour. However, the colour palette adheres to the design philosophy of providing a pleasing user experience, and colour is still used albeit sparingly.
-- The colour palette consists of thematic colours such as 'Gunmetal', Battleship Gray' and 'Aquamarine' [Colour Palette](https://coolors.co/ffffff-202a25-67dfba-848586-c1ae8c-857d66).
+- The colour palette consists of thematic colours such as 'Gunmetal', Battleshi
+The site is subdivided into 2 distinct pages each with a unique set of content. Tp Gray' and 'Aquamarine' [Colour Palette](https://coolors.co/ffffff-202a25-67dfba-848586-c1ae8c-857d66).
 - Roboto was chosen as the site font. It's simplicity matches the minimalist style of the site and Roboto Slab is used for select headings as it matches well. 
 ![Alt Text](/assets/img/readme-img/colour-palette.png "Colour Palette")
 
 ## Structure
-The site is subdivided into 2 distinct pages each with a unique set of content. The home page consists of several articles on the historical event and imagery found online. The second page consists of secondary video sources describing the event through interviews and documentary footage.
+The home page consists of several articles on the historical event and imagery found online. The second page consists of secondary video sources describing the event through interviews and documentary footage.
 
 ___
 
 # Features
-UX attracts the user to the site, but features ensure the stay. The features are intended to compliment the site's overall aesthetic and solidify its purpose as a historical educator.
+UX attracts the user to the site, but features ensure they stay. The features are intended to compliment the site's overall aesthetic and solidify its purpose as a historical educator.
 
 ## Navigation Bar
 
 The site features a navigation bar that responds to the user when each item is hovered over with the mouse. The responsive links change colour when the user hovers their mouse over them. 
+![Alt Text](/assets/img/readme-img/nav-bar.jpg)
 
 ## Landing Content
 The article on the homepage provides a well-researched introductory article, giving interesting facts about the event and referencing existing literature where necessary. 
-
-## Homepage
-
 The homepage features the headline article for the website, a comprehensive summary of the D-Day landings, drawing the user in through imagery and descriptive writing.
-
-## About
-
-This section describes the purpose of the website. It gives context to the purpose of the article and the reasons for the website's creation. 
+[Alt Text](/assets/img/readme-img/homepage.jpg)
 
 ## Contact
 
 This section allows users to get in touch by entering their details through a form. The form asks for the user's name, email, and a brief descriptions about their enquiry. 
+[Alt Text](/assets/img/readme-img/contact-section.jpg)
 
 ## Video Content
-Reference to external video content is provided in the site. The content is intended to flesh out the details of the primary article and boost the user experience. An aspect ratio calculator [Omni Calculator] (https://www.omnicalculator.com/other/16-9-aspect-ratio#:~:text=Check%20the%20width%20and%20height%20of%20your%20image.,16%2F9%2C%20aspect%20ratio%20of%20your%20image%20is%2016%3A9.) was used to calculate the relevant height to specific widths for the iframe videos. 
+Reference to external video content is provided in the site. The content is intended to flesh out the details of the primary article and boost the user experience. An aspect ratio calculator [Omni Calculator](https://www.omnicalculator.com/other/16-9-aspect-ratio#:~:text=Check%20the%20width%20and%20height%20of%20your%20image.,16%2F9%2C%20aspect%20ratio%20of%20your%20image%20is%2016%3A9.) was used to calculate the relevant height to specific widths for the iframe videos. 
+[Alt Text](/assets/img/readme-img/video-footage.jpg)
 
 ## Historical Imagery
-Throughout the site, imagery from the historical date is used to immerse the user in the content on screen. 
+Imagery from the historical date is used to immerse the user in the content on screen. 
+[Alt Text](/assets/img/readme-img/site-imagery.jpg)
 
 ## Footer
 
-The footer links to social media and content delivery websites for the page, specifically Instagram and Github. The 
+The footer links to social media and content delivery websites for the page, specifically Instagram and Github and LinkedIn. The links within the footer move as the user hovers over it, providing a minimalist sense of dynamacism. 
+[Alt Text](/assets/img/readme-img/footer.jpg)
 
 ## Future Features
 
@@ -132,7 +130,7 @@ ___
 Below are a list of sources used in both the creation of the site content and learnings. 
 
 ## Image Content
-- Imagery was taken from [Shutterstock.com](https://www.shutterstock.com/). This was to ensure that there was no copyright infringement and to gather images of high-quality.
+- Imagery was taken from [Shutterstock.com](https://www.shutterstock.com/). This was to gather images of high-quality.
 - The Favicon was created using the [Favicon.io Generator] (https://favicon.io/favicon-generator/)
 
 ## Education
@@ -152,4 +150,4 @@ ___
 
 # Acknowledgements
 
-I would like to thank the Code Institute team and the Slack community. I would also like to extend my thanks to my mentor...
+I would like to thank the Code Institute team and the Slack community. I would also like to extend my thanks to my mentor, Okwudiri Okoro, for his impartial perspective and guidance on the project. A special thank you to Bethany and Alan for granting me an extention due to illness.
