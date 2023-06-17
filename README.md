@@ -74,25 +74,25 @@ The site features a navigation bar that responds to the user when each item is h
 ## Landing Content
 The article on the homepage provides a well-researched introductory article, giving interesting facts about the event and referencing existing literature where necessary. 
 The homepage features the headline article for the website, a comprehensive summary of the D-Day landings, drawing the user in through imagery and descriptive writing.
-[Alt Text](/assets/img/readme-img/homepage.jpg)
+![Alt Text](/assets/img/readme-img/homepage.jpg)
 
 ## Contact
 
 This section allows users to get in touch by entering their details through a form. The form asks for the user's name, email, and a brief descriptions about their enquiry. 
-[Alt Text](/assets/img/readme-img/contact-section.jpg)
+![Alt Text](/assets/img/readme-img/contact-section.jpg)
 
 ## Video Content
 Reference to external video content is provided in the site. The content is intended to flesh out the details of the primary article and boost the user experience. An aspect ratio calculator [Omni Calculator](https://www.omnicalculator.com/other/16-9-aspect-ratio#:~:text=Check%20the%20width%20and%20height%20of%20your%20image.,16%2F9%2C%20aspect%20ratio%20of%20your%20image%20is%2016%3A9.) was used to calculate the relevant height to specific widths for the iframe videos. 
-[Alt Text](/assets/img/readme-img/video-footage.jpg)
+![Alt Text](/assets/img/readme-img/video-footage.jpg)
 
 ## Historical Imagery
 Imagery from the historical date is used to immerse the user in the content on screen. 
-[Alt Text](/assets/img/readme-img/site-imagery.jpg)
+![Alt Text](/assets/img/readme-img/site-imagery.jpg)
 
 ## Footer
 
 The footer links to social media and content delivery websites for the page, specifically Instagram and Github and LinkedIn. The links within the footer move as the user hovers over it, providing a minimalist sense of dynamacism. 
-[Alt Text](/assets/img/readme-img/footer.jpg)
+![Alt Text](/assets/img/readme-img/footer.jpg)
 
 ## Future Features
 
