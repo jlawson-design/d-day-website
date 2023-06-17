@@ -116,14 +116,20 @@ Different elements of the site were coloured throughout the process to discern w
 ___
 
 # Bug Fixing
+The site text was tested using the [W3C Validator](https://validator.w3.org/nu/) which resulted in the identification of a few bugs shown in the following section. Below are the results of the successful tests:
+![Alt Text](/assets/img/readme-img/index-W3C-validator.jpg)
+![Alt Text](/assets/img/readme-img/video-W3C-validator.jpg)
+Finally, the webpage CSS was tested using the Jigsaw validator. All errors found are noted in the following section:
+![Alt Text](/assets/img/readme-img/style-jigsaw-validator.jpg)
 
 ## Resolved
 - One bug that occured early on in the project creation was when the project would not update when run through "python3 -m http.server". As the source of this error could not be identified, the project was rebooted in a new Github repository. This is not the correct way to solve this error but provided new learnings to keep track of what is entered into the terminal. For example, accidentally terminating a running website with CTRL+Z instead of CTRL+C does not adequately shut down the project and requires additional commands to stop the code from running. 
 - W3C Validator identified the second major error found in the <meta> element of index.html.
 - A bug occured when creating movement when hovering over the social media links. The hover effect occured when the surrounding list item area was hovered over. This was fixed through adding an id "click-icon" to the icons and moving the css properties to that id.
+- The frameborder attribute on the iframe element was obselete and removed through identification by W3C Validator. 
 
 ## Unresolved
-
+- The logos in the footer of the page are slightly off-centre. This error could be remediated by editing the flexbox parameters in the stylesheet. 
 ___
 
 # Resources

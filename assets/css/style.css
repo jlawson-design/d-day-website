@@ -68,7 +68,7 @@ a {
     display: flex;
     justify-content: flex-start;
     text-transform: uppercase;
-    color:#202a25
+    color:#202a25;
     font-size: 200%;
     text-decoration: none;
     padding-left: 10vw;
@@ -238,12 +238,12 @@ footer ul li{
     justify-content: center;
 }
 
-#click-icon{
+.click-icon{
     position: relative;
     transition: top ease 1s;
 }
 
-#click-icon:hover{
+.click-icon:hover{
     top: -5px;
 }
 
@@ -263,15 +263,8 @@ iframe{
 
 }
 
-@media (max-width: 1024x) {
+@media (max-width: 1024px) {
 
-
-}
-
-@media (max-width: 955x) {
-    .col img {
-        height: 100px
-    }
 
 }
 
@@ -299,17 +292,4 @@ iframe{
         width: 500px;
         height:281px;
     }
-}
-
-@media (max-width: 625x) {
-    	
-}
-
-@media (max-width: 390x) {
-
-    .col iframe {
-        width: 400px;
-        height: 281px;
-    }
-
 }
