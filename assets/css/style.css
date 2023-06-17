@@ -248,17 +248,11 @@ footer ul li{
 }
 
 #video-content{
-    padding-bottom: 5%;
+    padding: 1%;
 }
 
-#video-container{
-    justify-content: space-evenly;
-    padding: 10%;
-}
-
-#video{
-    width: 64%;
-    height: 36%;
+iframe{
+    padding:1%;
 }
 
 /* Media Queries for different page sizes */
@@ -295,6 +289,14 @@ footer ul li{
      
     .col img {
         width: 300px
+    }
+
+    form h1 {
+        font-size: 100%;
+    }
+
+    col iframe {
+        width: 200px;
     }
 }
 
