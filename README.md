@@ -130,6 +130,7 @@ Finally, the webpage CSS was tested using the Jigsaw validator. All errors found
 
 ## Unresolved
 - The logos in the footer of the page are slightly off-centre. This error could be remediated by editing the flexbox parameters in the stylesheet. 
+- The size of the images for the media queries could use more work to ensure the imagery and video footage is shown to be the right size in all instances. 
 ___
 
 # Resources
