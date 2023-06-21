@@ -19,6 +19,7 @@ __
   - [Future Features](#future-features)
     - [Dynamic Scroll Bar](#dynamic-scroll-bar)
     - [Form Submit Page](#form-submit-page)
+    - [Single Page](#single-page)
 - [Testing](#testing)
   - [Process](#process)
 - [Bug Fixing](#bug-fixing)
@@ -105,6 +106,10 @@ The addition of a dynamic scroll bar to indicate the user's progression along th
 ### Form Submit Page
 
 Currently the form links to the Code Institute submission page once submitted. Extra content could include a built-in submission page to keep the site consistent. 
+
+### Single Page
+
+Feedback was provided to convert the site into a one-page application. This feature would involve moving the video section below the feedback form. Time constraints meant that this could not be implemented.
 ___
 
 # Testing
