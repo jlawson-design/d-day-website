@@ -54,8 +54,7 @@ The design of the website should be elegant, minimalist, and ultimately **respec
 
 - An initial design of the website was formed through the creation of a wireframe on [Figma](https://www.figma.com/). This wireframe guided design decisions and negated the temptation of scope creep.
 - A minimalist design style was chosen for the website, evoking a sense of history, back when the majority of pictures taken lacked colour. However, the colour palette adheres to the design philosophy of providing a pleasing user experience, and colour is still used albeit sparingly.
-- The colour palette consists of thematic colours such as 'Gunmetal', Battleshi
-The site is subdivided into 2 distinct pages each with a unique set of content. Tp Gray' and 'Aquamarine' [Colour Palette](https://coolors.co/ffffff-202a25-67dfba-848586-c1ae8c-857d66).
+- The colour palette consists of thematic colours such as 'Gunmetal', Battleship Gray' and 'Aquamarine'. [Colour Palette](https://coolors.co/ffffff-202a25-67dfba-848586-c1ae8c-857d66)
 - Roboto was chosen as the site font. It's simplicity matches the minimalist style of the site and Roboto Slab is used for select headings as it matches well. 
 ![Alt Text](/assets/img/readme-img/colour-palette.png "Colour Palette")
 
