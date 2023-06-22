@@ -1,8 +1,11 @@
 ___
-The website is available at [this link]().
+
+# The website is available at [this link](https://jlawson-design.github.io/d-day-website/)
+
 __
 # Table of Contents
 
+- [The website is available at this link](#the-website-is-available-at-this-link)
 - [Table of Contents](#table-of-contents)
 - [Background](#background)
 - [UX](#ux)
