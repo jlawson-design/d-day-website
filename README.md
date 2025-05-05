@@ -164,4 +164,4 @@ ___
 
 # Acknowledgements
 
-I would like to thank the Code Institute team and the Slack community. I would also like to extend my thanks to my mentor, Okwudiri Okoro, for his impartial perspective and guidance on the project. A special thank you to Bethany and Alan for granting me an extention due to illness.
+I would like to thank the Code Institute team and the Slack community. I would also like to extend my thanks to my mentor, Okwudiri Okoro, for his impartial perspective and guidance on the project. A special thank you to Bethany and Alan for granting me an extention.
